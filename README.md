@@ -17,7 +17,7 @@ To run the Temperature Converter locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abhishamathew/PRODIGY_SD_02.git
+   git clone https://github.com/Abhishamathew/PRODIGY_SD_01.git
    ```
 
 2. Navigate to the project directory:
